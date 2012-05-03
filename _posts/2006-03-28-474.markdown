@@ -1,0 +1,9 @@
+---
+title: "실용 마케팅 한국어의 표지"
+author:
+category: 
+tags: 
+layout: post
+---
+<img src="http://blog.fltrp.com/hy/images/02_copy2.jpg" alt="" /> ]]>
+
