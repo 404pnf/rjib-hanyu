@@ -1,9 +1,0 @@
----
-title: "拉丁语的俗语"
-author:
-category: 
-tags: 
-layout: post
----
-在wikipedia上看到这些<a href="http://en.wikipedia.org/wiki/List_of_Latin_phrases">拉丁语俗语的条目</a>。想有时间自己整理一下。有人参与么？
-
