@@ -1,0 +1,27 @@
+---
+title: "公司名称中的 AB 是瑞典语 公司 的意思"
+author:
+category: 
+tags: 
+layout: post
+---
+公司名称中的 AB 是瑞典语 公司 的意思
+
+好不容易从wikipedia中找到了ab在公司名字里是瑞典语公司的意思要和英文中的Ltd, Inc差不多
+
+<a href="http://en.wikipedia.org/wiki/Ab">http://en.wikipedia.org/wiki/Ab</a>
+
+AB有很多种意思，这个隐藏的很深，我上下快速浏览了多遍才发现，不信你们试试。
+
+<a href="http://en.wikipedia.org/wiki/Aktiebolag">http://en.wikipedia.org/wiki/Aktiebolag</a>
+
+<blockquote>
+
+Aktiebolag is the Swedish term for a corporation, i.e. a company that has stocks. When used in company names it is abbreviated AB in Sweden and Ab in Finland.
+
+
+
+The Finnish language equivalent is osakeyhtiö, or Oy. The German and Norwegian equivalents would be Aktiengesellschaft (AG) and Aksjeselskap (AS), respectively, which is literally a translation of the Swedish term (or vice versa); the British would be Limited company (Ltd.); the Americans call it corporation (Inc.).
+
+</blockquote>
+

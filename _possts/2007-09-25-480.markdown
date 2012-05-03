@@ -1,0 +1,47 @@
+---
+title: "创作公用和摄影模特的一个问题"
+author:
+category: 
+tags: 
+layout: post
+---
+<blockquote>
+
+Re:Why the License (Score:5, Informative)
+
+by Anonymous Coward on Saturday September 22, @07:17AM (#20709617)
+
+
+
+If Virgin choose to fight this, then a counter suit against the photographer for failing in their duty of care to get a model release while offering the photo to be licensed for commercial use will bring some serious pressure upon him.
+
+
+
+This ‘duty’ doesn’t exist for the photographer. It’s always the responsibility of the final client to ensure that a model release exists. Just because the photograph in this case was free does not mean that Virgin / their advertising agency can suddenly forget about that.
+
+
+
+(Score:5, Informative)
+
+by Sen.NullProcPntr (855073) on Saturday September 22, @09:13AM (#20710097)
+
+I didn’t know this. You appear to be correct, here are a couple [wikipedia.org] references [danheller.com].
+
+
+
+<a href="http://yro.slashdot.org/comments.pl?threshold=5&mode=thread&commentsort=0&op=Change&sid=305437">http://yro.slashdot.org/comments.pl?threshold=5...</a>
+
+</blockquote>
+
+more 
+
+<a href="http://en.wikipedia.org/wiki/Model_release">http://en.wikipedia.org/wiki/Model_release</a>
+
+<a href="http://www.danheller.com/model-release.html">http://www.danheller.com/model-release.html</a>
+
+就是说最终商业使用的机构自己有责任去确认摄影师的照片是否得到了模特的同意。这个模特不一定是职业模特，照的是大街上的人，摄影师自己都不知道的也包括。我支持这种做法，但某些情况下这个难度真的很大呀。
+
+怪不得广告公司都买那种模特模拟各种场景的照片呢。那种照片很假，但版权麻烦少。这里有个机会呀。各位聪明的朋友。：）
+
+<a href="http://yro.slashdot.org/comments.pl?sid=305437&cid=20709887">This comment</a> makes comparison between 1.0 and 3.0 . 3.0 certainly makes the case more clear.
+
