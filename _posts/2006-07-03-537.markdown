@@ -1,0 +1,10 @@
+---
+title: "속담 한 마디"
+author:
+category: 
+tags: 
+layout: post
+---
+天外有天，人外有人。
+가는 놈 위에 나는 놈이 있다.
+
