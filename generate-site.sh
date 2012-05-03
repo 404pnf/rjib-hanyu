@@ -1,3 +1,3 @@
-jekyll --server --kramdown
+#jekyll --server --kramdown
 # regenerate all posts
-#jekyll --server --kramdown --no-auto
+jekyll --server --kramdown --no-auto

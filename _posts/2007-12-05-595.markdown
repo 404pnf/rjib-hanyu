@@ -1,0 +1,45 @@
+---
+title: "kink 翻译成瑕疵 "
+author:
+category: 
+tags: 
+layout: post
+---
+<blockquote>
+
+Overall, I hope that XEmacs, GNU Emacs and their various distributors work out the kinks so that such a simple matter as cut and paste is not a matter of medieval alchemical incantations. Until then, I hope my notes are of help to someone else.
+
+<a href="http://www.oreillynet.com/lpt/wlg/6162">http://www.oreillynet.com/lpt/wlg/6162</a>
+
+</blockquote>
+
+想不出如何翻译和选那个意思。应该是5，翻译成瑕疵？
+
+define: kink
+
+The noun kink has 5 senses (no senses from tagged texts)
+
+<ol>
+
+<li>crick, kink, rick, wrick — (a painful muscle spasm especially in the neck or back (<code>rick' and</code>wrick’ are British))</li>
+
+<li>kink, twist, twirl — (a sharp bend in a line produced when a line having a loop is pulled tight)</li>
+
+<li>kink — (a person with unusual sexual tastes)</li>
+
+<li>kink — (an eccentric idea)</li>
+
+<li>kink — (a difficulty or flaw in a plan or operation; “there are still a few kinks to iron out”)</li>
+
+</ol>
+
+The verb kink has 2 senses (no senses from tagged texts)
+
+<ol>
+
+<li>crimp, crape, frizzle, frizz, kink up, kink — (curl tightly; “crimp hair”)</li>
+
+<li>curl, curve, kink — (form a curl, curve, or kink; “the cigar smoke curled up at the ceiling”)</li>
+
+</ol>
+
