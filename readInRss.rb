@@ -12,7 +12,7 @@ open('http://0.0.0.0/hanyu.xml') do |http|
   result = RSS::Parser.parse(response, false)
 #  puts "Channel: " + result.channel.title
   result.items.each_with_index do |item, i|
-    id = i-106
+    id = i-142
     title =  item.title.to_s.chomp
     # some item are blank titles
     # we cant allow this, otherwise the following gsub exits if working on a blank string, aka Nil
@@ -29,6 +29,11 @@ open('http://0.0.0.0/hanyu.xml') do |http|
     date = pubdate.slice(0,10)
 
     content = item.description.to_s
+
+    content = content.gsub(/" *\]\]&#62;"/, "")
+    content = content.gsub(/^n+/, "")
+    content = content.gsub(/^ +/, "")
+
  
     # read what's been parsed in terminaln
     puts mytitle
