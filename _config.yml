@@ -22,10 +22,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 韩风在这里继续
+title : mew~ mew~
 tagline: fancy tagline
 author :
-  name : hanfeng
+  name : mewmew
   email : blah@email.test
   #github : username
   #twitter : username
@@ -39,7 +39,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://www.rijiben.org/hanyu
+production_url : http://www.rijiben.org/mewmew
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
