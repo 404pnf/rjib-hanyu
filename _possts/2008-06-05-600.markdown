@@ -1,9 +1,0 @@
----
-title: "test publish a photo"
-author:
-category: 
-tags: 
-layout: post
----
-
-

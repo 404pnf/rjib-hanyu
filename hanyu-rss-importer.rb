@@ -40,7 +40,7 @@ open('http://0.0.0.0/hanyu.xml') do |http|
  # Get the relevant fields as a hash, delete empty fields and convert
   # to YAML for the header
     data = {
-    #'layout' => 'post',
+    'layout' => 'post',
     'title' => mytitle.to_s,
     }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
 
