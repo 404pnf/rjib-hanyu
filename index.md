@@ -9,7 +9,7 @@ title: 那些年我们一起学的韩语
   <ul id="recent_posts">
     {% for post in site.posts limit: 150 %}
       <li class="post">
-        <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+        <a href="{{BASE_PATH}}{{ root_url }}{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>

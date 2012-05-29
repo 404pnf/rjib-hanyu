@@ -1,9 +1,0 @@
----
-title: "안녕하세요"
-author:
-category: 
-tags: 
-layout: post
----
-많이붙학드립니다.
-
