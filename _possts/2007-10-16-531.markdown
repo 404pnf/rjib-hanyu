@@ -1,0 +1,61 @@
+---
+title: "minutes"
+author:
+category: 
+tags: 
+layout: post
+---
+<blockquote>
+
+Minutes from 2006/01/16-17 meeting
+
+by novalis — last modified 2006-01-24 17:22
+
+
+
+These minutes were approval at the 1/24 meeting.
+
+
+
+Resolved:
+
+
+
+<ol>
+
+<li>The goal of Commitee D is to represent rather than advocate, to clarify and refine and, when needed, complete the range of views.  Each member will seek input from the community, and provide input via the comment system as individuals rather than as a committee.
+
+
+
+<ol>
+
+<li>The committee has no chair.  Instead, each meeting has a coordinator who will serve until the election of the next coordinator.  David Turner was the coordinator for the first day.  Zak Greant was the coordinator for the second day.</li>
+
+<li>Every issue which the committee adopts will have one manager who is responsible for that issue.
+
+….
+
+source: <a href="http://gplv3.fsf.org/discussion-committees/D/minutes/minutes_20060116">http://gplv3.fsf.org/discussion-committees/D/mi...</a></li>
+
+</ol></li>
+
+</ol>
+
+</blockquote>
+
+minutes
+
+<ul>
+
+<li>a written account of what transpired at a meeting
+
+wordnet.princeton.edu/perl/webwn</li>
+
+<li>Minutes are the instant written record of a meeting or hearing. They often give an overview of the structure of the meeting, starting with a list of those present, a statement of the various issues before the participants, and each of their responses thereto. They are often created at the moment of the hearing by a typist or court recorder at the meeting, who may record the meeting in shorthand, and then type the minutes and issue them to the participants afterwards. …
+
+en.wikipedia.org/wiki/Minutes</li>
+
+</ul>
+
+这里的中文意思是什么？
+

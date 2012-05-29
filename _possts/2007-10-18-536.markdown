@@ -1,0 +1,27 @@
+---
+title: "arrest"
+author:
+category: 
+tags: 
+layout: post
+---
+<blockquote>
+
+When the execution isn’t botched, the first drug is supposed to render the prisoner unconscious, the second drug paralyzes them, and the third drug causes cardiac arrest. The process should take about 20 minutes.
+
+<a href="http://blog.aclu.org/index.php?/archives/300-Supreme-Court-to-Evaluate-Three-Drug-Execution-Cocktail.html">http://blog.aclu.org/index.php?/archives/300-Su...</a>
+
+</blockquote>
+
+arrest 在这里是停止的意思。以前不知道呢。
+
+<blockquote>
+
+the state of inactivity following an interruption; “the negotiations were in arrest”; “held them in check”; “during the halt he got some lunch”; “the momentary stay enabled him to escape the blow”; “he spent the entire stop in his seat”
+
+halt: cause to stop; “Halt the engines”; “Arrest the progress”; “halt the presses”
+
+wordnet.princeton.edu/perl/webwn
+
+</blockquote>
+

@@ -1,0 +1,11 @@
+---
+title: "ciao everybody "
+author:
+category: 
+tags: 
+layout: post
+---
+ciao
+
+<img src="http://webdesignbook.net/wp-content/themes/v100/ciao_logo_width85.gif" alt="" />
+

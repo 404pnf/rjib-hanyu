@@ -1,0 +1,33 @@
+---
+title: "ua是ukraine 就是乌克兰的国家代码"
+author:
+category: 
+tags: 
+layout: post
+---
+乌克兰的unix爱好者把基本书直接放到网上让人看了。真好。
+
+<a href="http://www.unix.org.ua/orelly/unix/index.htm">http://www.unix.org.ua/orelly/unix/index.htm</a>
+
+查了一下才知道ua是ukraine的意思。
+
+<blockquote>
+
+What does UA stand for? Definition of Ukraine (ISO Country Identifier) in the list of acronyms and abbreviations provided by the Free Online Dictionary and
+
+
+
+www.worldbank.org/ua
+
+世界银行采用这个缩写
+
+</blockquote>
+
+刚发现，其实乌克兰的朋友们给我们的还很多，很多。：）
+
+<a href="http://www.unix.org.ua/orelly/">http://www.unix.org.ua/orelly/</a>
+
+<
+
+del datetime=”2007-11-20T03:12:50+00:00″>
+
